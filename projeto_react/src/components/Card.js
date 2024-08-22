@@ -10,8 +10,8 @@ const CardContainer = styled.div`
   border-radius: 8px;
   width: 200px;
   background-color: #fff;
-  padding: 10px;  // Adiciona padding interno ao card
-  margin: 10px;  // Adiciona espaçamento externo ao card
+  padding: 10px;
+  margin: 10px; 
 `;
 
 // Título do card com espaçamento
