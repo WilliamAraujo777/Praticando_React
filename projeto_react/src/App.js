@@ -97,7 +97,7 @@ const products = [
 
 function App() {
   return (
-    <div>
+    <div id="container">
       <Title>Tela de Produtos</Title>
       <Description>Abaixo os produtos e suas descrições:</Description>
       <Products products={products} />
